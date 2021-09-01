@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me👋
+
+I am a software architect who's passion is architecting, designing complex software applications and systems.
 
 <!--
 **kcq888/kcq888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
