@@ -1,4 +1,4 @@
-# About Me👋
+# About Kevin Quan👋
 
 I am a software architect who's passion is architecting, designing complex software applications and systems.
 
