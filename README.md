@@ -1,6 +1,6 @@
 # About Kevin Quan👋
 
-I am a software architect who's passion is architecting, designing complex software applications and systems.
+I am a software architect who's passionate about architecting, designing and developing complex software applications and systems. I am giving back to the community by volunteering as a software mentor for the local high school FIRST Robotics Competition team. I am also a Google Developer Group organizer who organizes developer events and I am a regular techinical speaker at the developer events.
 
 <!--
 **kcq888/kcq888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
